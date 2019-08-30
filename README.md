@@ -1,4 +1,4 @@
 # devops-aula04
-1- Hero - Foo fighters
-2- Gold - Imagine Dragons
-3- Ru mine - Arctic Monskeys
+1-Um truque de mestre
+2-Até o ultimo homem
+3-O senhor dos aneis
